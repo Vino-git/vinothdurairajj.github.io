@@ -269,5 +269,17 @@ var BOOKS = {
     "image": "images\\18144590.jpg",
     "genre": "PersonalGoal,Read",
     "review": "https://www.goodreads.com/book/show/18144590-the-alchemist"
+  },
+ "46": {
+    "title": "Homo Deus: A History of Tomorrow",
+    "image": "images\\31138556.jpg",
+    "genre": "PersonalGoal,Read",
+    "review": "https://www.goodreads.com/book/show/31138556-homo-deus"
+  },
+ "47": {
+    "title": "Deep Work: Rules for Focused Success in a Distracted World",
+    "image": "images\\25744928.jpg",
+    "genre": "PersonalGoal,Read",
+    "review": "https://www.goodreads.com/book/show/25744928-deep-work"
   }
 }
